@@ -1,6 +1,6 @@
 ![Improvement Value](https://github.com/user-attachments/assets/6c162ee4-9c39-4f1e-8954-4b7f6b5f58ea)
 
-> Measure the Improvement Value (IV) in products and services can be developed by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
+> Measure the Improvement Value (IV) in products and services by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
 
 #
 
