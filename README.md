@@ -1,4 +1,4 @@
-![Improvement Value](https://github.com/user-attachments/assets/6c162ee4-9c39-4f1e-8954-4b7f6b5f58ea)
+![Stratton Oakmont Fan Art Logo](https://github.com/user-attachments/assets/248a340c-1fbe-4a42-8ad2-19b558f6ccf0)
 
 > Measure the Improvement Value (IV) of products and services by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
 
@@ -53,6 +53,10 @@ The iPhone’s impact on both the smartphone industry and broader markets has be
 | **Efficiency**  | A-series chip evolution, faster performance, improved battery life, low-power modes               |
 | **Satisfaction**| High customer loyalty, strong NPS, App Store expansion, camera improvements, iOS ecosystem growth |
 | **Impact**      | Market disruption, revenue growth, ecosystem integration, influence on industry standards         |
+
+#
+
+![Improvement Value](https://github.com/user-attachments/assets/6c162ee4-9c39-4f1e-8954-4b7f6b5f58ea)
 
 #
 
