@@ -20,6 +20,10 @@ Satisfaction involves assessing how the improvements affect customer or user hap
 Lastly, impact assesses the broader effects of improvements, such as how they affect market positioning, competitive advantage, or the overall ecosystem in which the product or service operates. It includes metrics like increased market share, revenue growth, or ecosystem collaboration. Impact offers a long-term view of how improvements contribute to the strategic goals of the business and create sustainable value over time. This holistic approach ensures that improvements are not only evaluated in isolation but also in the context of their larger business implications.
 
 #
+
+> Alex: "*The monetary value of innovation.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
