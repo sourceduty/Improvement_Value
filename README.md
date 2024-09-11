@@ -23,6 +23,16 @@ Lastly, impact assesses the broader effects of improvements, such as how they af
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+<br>
+[Manufacturing](https://github.com/sourceduty/Manufacturing)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Business Research](https://github.com/sourceduty/Business_Research)
+<br>
+[Optimize](https://github.com/sourceduty/Optimize)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
