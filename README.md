@@ -20,7 +20,7 @@ Satisfaction involves assessing how the improvements affect customer or user hap
 Lastly, impact assesses the broader effects of improvements, such as how they affect market positioning, competitive advantage, or the overall ecosystem in which the product or service operates. It includes metrics like increased market share, revenue growth, or ecosystem collaboration. Impact offers a long-term view of how improvements contribute to the strategic goals of the business and create sustainable value over time. This holistic approach ensures that improvements are not only evaluated in isolation but also in the context of their larger business implications.
 
 #
-### Improvement Value Example for ChatGPT
+### Improvement Value for ChatGPT
 
 ![ChatGPT](https://github.com/user-attachments/assets/372789a5-c9df-4515-9340-55210684a13b)
 
@@ -45,7 +45,7 @@ Customer satisfaction with the iPhone has generally remained high, with many sur
 
 The iPhone’s impact on both the smartphone industry and broader markets has been profound. From an initial product that disrupted the mobile phone industry, it has since grown into a critical component of Apple’s ecosystem strategy, driving market share and contributing to the company’s revenue growth. Each iteration has strengthened Apple’s competitive advantage in terms of innovation and ecosystem integration, from health tracking features to augmented reality capabilities. The iPhone has not only increased Apple's market share, but it has also fostered an entire ecosystem of accessory markets and app developers. Moreover, the product has influenced industry standards, pushing competitors to adopt similar technologies and user-friendly features, amplifying its lasting impact on the market.
 
-............................................................................................................................................................
+<br>
 
 | **Dimension**   | **Improvement**                                                                                  |
 |-----------------|--------------------------------------------------------------------------------------------------|
