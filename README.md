@@ -22,7 +22,7 @@ Satisfaction involves assessing how the repairs, replacements, or improvements a
 Impact assesses the broader effects of improvements, repairs, or replacements, such as how they influence market positioning, competitive advantage, or the overall ecosystem in which the product or service operates. For instance, replacing outdated parts or making repairs using innovative technologies can strengthen a company's competitive edge. Similarly, improvements that lead to longer-lasting products or services may improve market share and revenue growth. Impact offers a long-term view of how repairs and replacements contribute to strategic business goals and create sustainable value over time. This holistic approach ensures that changes are not only evaluated in isolation but also in the context of their larger business implications.
 
 #
-### Upgrade, Repair and Repalcement Improvement Value
+### Upgrade, Repair and Replacement Improvement Value
 
 ![Upgrade](https://github.com/user-attachments/assets/ea786e7f-7292-4ac2-864f-fffd166883b5)
 
