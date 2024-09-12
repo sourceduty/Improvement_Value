@@ -38,6 +38,39 @@ Efficiency improvements contribute to IV in USD by reducing operational costs an
 Customer satisfaction improvements, while harder to measure directly in USD, can be linked to increased revenue through higher retention rates, referrals, and brand loyalty. A more satisfied customer is likely to make repeat purchases and recommend the product or service to others, boosting sales. Similarly, improvements in the overall impact, such as increased market share or competitive positioning, can be expressed as additional revenue or profit growth. These financial outcomes, when measured against the costs of implementing improvements, provide a clear picture of the improvement’s value in USD terms.
 
 #
+### Common Financial Values of Improvement
+
+| Improvement Type                   | Description                                    | Estimated IV (USD) |
+|------------------------------------|------------------------------------------------|--------------------|
+| Vehicle Upgrades                   |                                                |                    |
+| - Engine Upgrade                   | Enhanced performance, fuel efficiency           | $2,000 - $5,000    |
+| - New Tires (Performance)          | Better traction, safety                        | $600 - $1,200      |
+| - Infotainment System              | Improved user experience, modernized interface | $1,000 - $2,500    |
+| - Suspension Upgrade               | Improved handling and ride quality             | $1,500 - $3,000    |
+| - Exhaust System Upgrade           | Enhanced engine sound, increased efficiency    | $800 - $2,500      |
+| House Renovations                  |                                                |                    |
+| - Kitchen Remodel                  | Increased home value, better functionality     | $10,000 - $25,000  |
+| - Bathroom Remodel                 | Improved aesthetics, water efficiency          | $7,000 - $15,000   |
+| - Flooring Upgrade (Hardwood)      | Aesthetic and value increase                  | $5,000 - $10,000   |
+| - New Windows (Energy-Efficient)   | Reduced energy costs, better insulation        | $5,000 - $12,000   |
+| - Roof Replacement                 | Increased home durability, energy efficiency   | $7,000 - $15,000   |
+| House Extensions                   |                                                |                    |
+| - Additional Bedroom               | Increased home value, more living space        | $15,000 - $50,000  |
+| - Sunroom Addition                 | More living space, natural light               | $10,000 - $35,000  |
+| - Garage Conversion                | Additional usable space, potential home office | $8,000 - $20,000   |
+| - Basement Finishing               | Expanded livable space, increased home value   | $20,000 - $50,000  |
+| Other Common Improvements          |                                                |                    |
+| - Solar Panel Installation         | Energy savings, eco-friendly                   | $15,000 - $30,000  |
+| - HVAC System Upgrade              | Improved energy efficiency, climate control    | $5,000 - $12,000   |
+| - Smart Home System                | Increased convenience, energy savings          | $2,500 - $7,500    |
+
+<br>
+
+This table summarizes a variety of common home and vehicle improvements, including upgrades to vehicles, house renovations, and extensions, along with estimated Improvement Value (IV) in USD. For example, vehicle upgrades like enhancing engine performance or upgrading suspension systems can add significant value in terms of performance and safety, with costs ranging from $600 to $5,000 depending on the type of upgrade. Similarly, house renovations such as kitchen remodels or energy-efficient window replacements can increase property value while improving functionality and reducing long-term energy costs, with IV estimates ranging from $5,000 to $25,000.
+
+House extensions like adding a bedroom or converting a garage into a living space can provide additional livable square footage and increase overall property value, with cost estimates reaching as high as $50,000 depending on the project's scope. Other improvements such as installing solar panels or upgrading the HVAC system focus on long-term energy efficiency and sustainability, which can lead to significant savings over time, making these high-value investments despite their initial cost.
+
+#
 ### Upgrade, Repair and Replacement Improvement Value
 
 ![Upgrade](https://github.com/user-attachments/assets/ea786e7f-7292-4ac2-864f-fffd166883b5)
