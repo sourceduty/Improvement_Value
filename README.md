@@ -93,6 +93,8 @@ The iPhone’s impact on both the smartphone industry and broader markets has be
 [Optimize](https://github.com/sourceduty/Optimize)
 <br>
 [Urban Update](https://github.com/sourceduty/Urban_Update)
+<br>
+[Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
