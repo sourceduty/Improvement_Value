@@ -71,7 +71,7 @@ This table summarizes a variety of common home and vehicle improvements, includi
 House extensions like adding a bedroom or converting a garage into a living space can provide additional livable square footage and increase overall property value, with cost estimates reaching as high as $50,000 depending on the project's scope. Other improvements such as installing solar panels or upgrading the HVAC system focus on long-term energy efficiency and sustainability, which can lead to significant savings over time, making these high-value investments despite their initial cost.
 
 #
-### Upgrade, Repair and Replacement Improvement Value
+### Upgrade, Repair and Replacement IV
 
 ![Upgrade](https://github.com/user-attachments/assets/ea786e7f-7292-4ac2-864f-fffd166883b5)
 
