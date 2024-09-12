@@ -75,7 +75,7 @@ The iPhone’s impact on both the smartphone industry and broader markets has be
 
 #
 
-> Alex: "*The monetary value of innovation.*"
+> Alex: "*The monetary value of innovations, updated repairs and downgrades.*"
 
 #
 ### Related Links
