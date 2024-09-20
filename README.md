@@ -197,6 +197,8 @@ The iPhone’s impact on both the smartphone industry and broader markets has be
 [Property Locale](https://github.com/sourceduty/Property_Locale)
 <br>
 [Business](https://github.com/sourceduty/Business)
+<br>
+[Physics and Computational Science Articles](https://www.kaggle.com/datasets/victornuez/latest-research-articles/data)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
