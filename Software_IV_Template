@@ -1,0 +1,71 @@
+Software Improvement Value (IV) Measurement Template
+
+Project Name: [Enter Project Name]
+Date: [Enter Date]
+Version: [Enter Version]
+
+---
+
+1. Usability
+1.1. Description of Changes
+- [Detail the specific usability changes made, e.g., UI redesign, simplified navigation, reduced steps in process.]
+
+1.2. Metrics
+- Task Completion Rate: [Percentage of users completing tasks successfully before vs. after changes.]
+- Error Rate: [Number of errors made by users before vs. after changes.]
+- User Feedback: [Summary of qualitative feedback related to usability improvements.]
+
+1.3. Evaluation
+- Was there an improvement in usability? [Yes/No]
+- Key Insights: [Summarize the impact on user experience and ease of use.]
+
+---
+
+2. Efficiency
+2.1. Description of Changes
+- [Detail the specific efficiency improvements made, e.g., performance optimization, reduced loading times, automated workflows.]
+
+2.2. Metrics
+- Time Saved: [Average time saved per user/task before vs. after changes.]
+- Resource Utilization: [CPU/Memory usage or other resource metrics before vs. after changes.]
+- Cost Reduction: [Any cost savings associated with the improvements.]
+
+2.3. Evaluation
+- Was there an improvement in efficiency? [Yes/No]
+- Key Insights: [Summarize the impact on speed and resource usage.]
+
+---
+
+3. Satisfaction
+3.1. Description of Changes
+- [Detail the specific changes aimed at improving satisfaction, e.g., enhanced features, customer support improvements.]
+
+3.2. Metrics
+- Net Promoter Score (NPS): [NPS score before vs. after changes.]
+- Customer Satisfaction Score (CSAT): [CSAT score before vs. after changes.]
+- Retention Rate: [Percentage of returning users/customers before vs. after changes.]
+
+3.3. Evaluation
+- Was there an improvement in satisfaction? [Yes/No]
+- Key Insights: [Summarize the impact on user sentiment and loyalty.]
+
+---
+
+4. Impact
+4.1. Description of Changes
+- [Detail the broader impacts of the improvements, e.g., market positioning, competitive advantage, strategic alignment.]
+
+4.2. Metrics
+- Market Share: [Percentage change in market share before vs. after changes.]
+- Revenue Growth: [Percentage change in revenue before vs. after changes.]
+- Ecosystem Collaboration: [Summary of any new partnerships, integrations, or collaborations.]
+
+4.3. Evaluation
+- Was there an improvement in impact? [Yes/No]
+- Key Insights: [Summarize the impact on business strategy and market position.]
+
+---
+
+Overall IV Summary
+- Summary of Key Improvements: [List the most impactful changes and their benefits.]
+- Areas for Future Improvement: [Identify any remaining pain points or opportunities for further enhancement.]
