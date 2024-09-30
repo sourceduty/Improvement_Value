@@ -1,0 +1,82 @@
+===============================================================
+              IMPROVEMENT VALUE (IV) CHEAT SHEET
+===============================================================
+
+Key Dimensions: Usability | Efficiency | Satisfaction | Impact
+
+---------------------------------------------------------------
+1. USABILITY METRICS
+---------------------------------------------------------------
+- Task Completion Rate:
+  Formula: (Number of successful tasks / Total tasks attempted) × 100
+  Purpose: Measure success in task completion after improvements.
+
+- Error Rate:
+  Formula: Total errors made / Total opportunities for error
+  Purpose: Track how usability improvements reduce errors.
+
+- Time on Task:
+  Formula: Total time spent by all users / Number of users
+  Purpose: Analyze time saved by users in completing tasks.
+
+---------------------------------------------------------------
+2. EFFICIENCY METRICS
+---------------------------------------------------------------
+- Time Savings:
+  Formula: ((Old process time - New process time) / Old process time) × 100
+  Purpose: Measure time reduction in completing a process.
+
+- Cost Reduction:
+  Formula: ((Old cost - New cost) / Old cost) × 100
+  Purpose: Assess percentage decrease in costs after improvements.
+
+- Productivity Gains:
+  Formula: ((Output after improvement - Output before improvement) / 
+            Output before improvement) × 100
+  Purpose: Evaluate increased productivity after changes.
+
+---------------------------------------------------------------
+3. SATISFACTION METRICS
+---------------------------------------------------------------
+- Net Promoter Score (NPS):
+  Formula: Percentage of Promoters - Percentage of Detractors
+  Purpose: Gauge customer loyalty and likelihood to recommend.
+
+- Customer Satisfaction (CSAT):
+  Formula: (Number of satisfied responses / Total responses) × 100
+  Purpose: Measure customer satisfaction post-improvement.
+
+- Customer Retention Rate:
+  Formula: ((Customers at end of period - New customers) / 
+            Customers at start of period) × 100
+  Purpose: Assess retention of customers after improvements.
+
+---------------------------------------------------------------
+4. IMPACT METRICS
+---------------------------------------------------------------
+- Revenue Growth:
+  Formula: ((Revenue after improvement - Revenue before improvement) / 
+            Revenue before improvement) × 100
+  Purpose: Measure the increase in revenue due to improvements.
+
+- Market Share:
+  Formula: (Your total sales / Total industry sales) × 100
+  Purpose: Track competitive position post-improvement.
+
+- Return on Investment (ROI):
+  Formula: (Net Gain from Improvements / Total Improvement Cost) × 100
+  Purpose: Evaluate the financial return of the improvements.
+
+---------------------------------------------------------------
+5. OVERALL IMPROVEMENT VALUE (IV)
+---------------------------------------------------------------
+Formula: IV = w_U × U + w_E × E + w_S × S + w_I × I
+  - U = Usability score
+  - E = Efficiency score
+  - S = Satisfaction score
+  - I = Impact score
+  - w_U, w_E, w_S, w_I = Weights assigned to each dimension
+  (Weights should sum to 1, based on business priorities)
+
+Purpose: Calculate a holistic value reflecting overall improvement.
+===============================================================
