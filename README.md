@@ -9,6 +9,13 @@
 Through its structured approach, this GPT guides users through a step-by-step evaluation process, asking targeted questions to gather relevant data for each dimension. By focusing on user-centered metrics such as task completion rates, cost savings, customer feedback, and market impact, it helps businesses quantify the effects of improvements in a clear and actionable way. This tailored approach ensures that improvements are not only seen in isolation but are also evaluated in terms of their long-term value and strategic significance.
 
 #
+### Mathematical Concept
+
+The mathematics used in assessing mprovement Value (IV) involves calculating key performance metrics across four dimensions: usability, efficiency, satisfaction, and impact. These metrics are based on formulas designed to quantify various types of improvement. For example, in usability, the Task Completion Rate is measured as the percentage of successful tasks completed after improvements, while the **Error Rate** tracks reductions in user mistakes. In efficiency, formulas such as Time Savings and Cost Reduction evaluate the percentage decrease in the time or cost required to perform tasks, providing a clear numerical reflection of increased operational efficiency. These formulas allow businesses to track quantifiable changes in how their products or services perform after modifications.
+
+In addition to individual metrics, businesses often aggregate multiple measurements to determine the overall Improvement Value (IV). This is typically done using a weighted average formula where different dimensions (usability, efficiency, satisfaction, and impact) are assigned importance based on business priorities. For instance, a company may weigh efficiency more heavily than satisfaction, depending on its goals. The use of weights in the formula `IV = w_U × U + w_E × E + w_S × S + w_I × I` helps businesses understand not only how well individual aspects have improved, but also how these improvements align with strategic objectives. By applying mathematical rigor to these calculations, companies can measure the tangible outcomes of their changes in a clear, quantifiable manner.
+
+#
 ### Improvement Value Framework
 
 The framework for measuring Improvement Value (IV) in products and services, including repairs and replacements, can be developed by focusing on four key dimensions: usability, efficiency, satisfaction, and impact. These dimensions allow businesses to assess the tangible and intangible benefits of changes or maintenance actions—whether they involve repairs, replacements, or enhancements—made to physical or digital offerings.
