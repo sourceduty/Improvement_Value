@@ -1,4 +1,4 @@
-![Stratton Oakmont Fan Art Logo](https://github.com/user-attachments/assets/248a340c-1fbe-4a42-8ad2-19b558f6ccf0)
+![Improvement Value](https://github.com/user-attachments/assets/3ffd5770-9568-400b-891f-0c475b6eb7d2)
 
 > Measure the Improvement Value (IV) of products and services, and the value of exact, improved or downgraded repairs and replacements.
 
