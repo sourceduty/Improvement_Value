@@ -1,6 +1,6 @@
 ![Improvement Value](https://github.com/user-attachments/assets/3ffd5770-9568-400b-891f-0c475b6eb7d2)
 
-> Measure the Improvement Value (IV) of products and services, and the value of exact, improved or downgraded repairs and replacements.
+> Measure and simulate the Improvement Value (IV) of products and services, and the value of exact, improved or downgraded repairs and replacements. 
 
 #
 
